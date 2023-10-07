@@ -1,0 +1,3 @@
+./Data/Exp-3/alpha2.txt, ./Data/Exp-3/alpha_test2.txt
+./Data/Exp-3/gamma2.txt, ./Data/Exp-3/gamma_test2.txt
+./Data/Exp-3/beta2.txt, ./Data/Exp-3/beta_test2.txt
